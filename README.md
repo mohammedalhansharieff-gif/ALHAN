@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./batman.png" width="460" alt="Batman terminal art"/>
+<img src="./batman-animated.svg" width="460" alt="Animated Batman terminal art"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F5C518&center=true&vCenter=true&width=700&lines=Mohammed+Alhan+Sharieff;Full-Stack+Developer;Building+Clean+%26+Reliable+Software;Batman+mode%3A+always+on)](https://git.io/typing-svg)
 

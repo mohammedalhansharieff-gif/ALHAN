@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" role="img" aria-labelledby="title desc">
+  <title id="title">Batman terminal animation</title>
+  <desc id="desc">A Batman silhouette revealed line by line like a terminal.</desc>
+  <rect width="760" height="520" rx="14" fill="#0d1117"/>
+  <g fill="#f5c518" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="600" xml:space="preserve">
+    <text x="34" y="42" fill="#8b949e" font-size="16">$ whoami :: the_dark_knight</text>
+    <text x="34" y="86">                 /\</text>
+    <text x="34" y="108">                /##\</text>
+    <text x="34" y="130">               /####\</text>
+    <text x="34" y="152">              /######\</text>
+    <text x="34" y="174">             /##/  \##\</text>
+    <text x="34" y="196">            /##|    |##\</text>
+    <text x="34" y="218">           /###|    |###\</text>
+    <text x="34" y="240">          /##############\</text>
+    <text x="34" y="262">         /################\</text>
+    <text x="34" y="284">        /##  ##########  ##\</text>
+    <text x="34" y="306">       /##   ##########   ##\</text>
+    <text x="34" y="328">       |##    ########    ##|</text>
+    <text x="34" y="350">        \##   ########   ##/</text>
+    <text x="34" y="372">         \################/</text>
+    <text x="34" y="394">          \##############/</text>
+    <text x="34" y="416">            |##########|</text>
+    <text x="34" y="438">           /############\</text>
+    <text x="34" y="460">          /##############\</text>
+    <text x="34" y="492" fill="#8b949e" font-size="16">[ BATMAN MODE: ACTIVE ]</text>
+  </g>
+  <g fill="#f5c518" font-family="ui-monospace, monospace" font-size="20">
+    <rect x="664" y="474" width="12" height="22">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <g fill="none" stroke="#f5c518" stroke-width="2" opacity=".75">
+    <path d="M560 86h160M560 108h120M560 130h160M560 152h92M560 174h160M560 196h130M560 218h160M560 240h104M560 262h160M560 284h118M560 306h160M560 328h88M560 350h160M560 372h128M560 394h160M560 416h112M560 438h160">
+      <animate attributeName="stroke-dasharray" values="0 800;800 0" dur="3.8s" fill="freeze"/>
+    </path>
+  </g>
+</svg>
