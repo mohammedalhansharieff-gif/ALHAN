@@ -6,6 +6,8 @@
 
 <a href="https://github.com/mohammedalhansharieff-gif">github.com/mohammedalhansharieff-gif</a>
 
+<sub>🦇 Building in public since 2026</sub>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=mohammedalhansharieff-gif&color=f5c518&style=flat-square&label=profile+views)
 
 </div>
