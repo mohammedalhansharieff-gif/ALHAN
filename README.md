@@ -54,7 +54,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedalhansharieff-gif&theme=dark&hide_border=true&background=0d1117&ring=f5c518&fire=f5c518&currStreakLabel=f5c518&starting_year=2026" height="155"/>
+<img src="./streak-2026.svg" height="155" alt="GitHub streak stats from 2026"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=mohammedalhansharieff-gif&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f5c518&icon_color=f5c518&text_color=c9d1d9" height="155"/>
 
