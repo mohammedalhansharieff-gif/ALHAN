@@ -2,13 +2,13 @@
 
 <img src="./batman-terminal-monochrome.svg" width="460" alt="Black and white animated Batman terminal art"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F5C518&center=true&vCenter=true&width=700&lines=Mohammed+Alhan+Sharieff;Full-Stack+Developer;Building+Clean+%26+Reliable+Software;Batman+mode%3A+always+on)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F0F6FC&center=true&vCenter=true&width=700&lines=Mohammed+Alhan+Sharieff;Full-Stack+Developer;Building+Clean+%26+Reliable+Software;Batman+mode%3A+always+on)](https://git.io/typing-svg)
 
 <a href="https://github.com/mohammedalhansharieff-gif">github.com/mohammedalhansharieff-gif</a>
 
 <sub>🦇 Building in public since 2026</sub>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohammedalhansharieff-gif&color=f5c518&style=flat-square&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=mohammedalhansharieff-gif&color=8b949e&style=flat-square&label=profile+views)
 
 </div>
 
